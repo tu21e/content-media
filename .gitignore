@@ -1,0 +1,4 @@
+engine/fonts/
+engine/out/
+__pycache__/
+*.wav
