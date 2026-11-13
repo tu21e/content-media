@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "l0ol3-instagram",
+  "description": "Instagram agent skills (Jake Schincariol, MIT) adapted for Iraqi Arabic for @l0__ol3",
+  "owner": { "name": "tu21e" },
+  "plugins": [
+    {
+      "name": "instagram-agent-ar",
+      "description": "Thirteen Instagram skills with Arabic-aware hook scoring, beat timing, caption linting and swipe ranking, plus 10 Iraqi hook formulas.",
+      "source": "./ig-skills",
+      "category": "productivity"
+    }
+  ]
+}
